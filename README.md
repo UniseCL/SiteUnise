@@ -3,7 +3,7 @@
 Bem-vindo ao repositório da Landing Page da Faculdade UNISE. Esta página foi desenvolvida como um ponto central de divulgação institucional, com foco em apresentar os cursos oferecidos, fornecer materiais de apoio e facilitar o contato com a equipe responsável.
 
 📌 Visite a página  
-URL pública: https://seuusuario.github.io/nomedorepositorio/ *(substitua pelo seu)*
+URL pública: https://unisecl.github.io/SiteUnise/
 
 📂 Conteúdo da Página
 
