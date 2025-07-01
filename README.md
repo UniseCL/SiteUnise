@@ -1,61 +1,45 @@
-# 🌐 Landing Page – Setor de Expansão e Negócios | UniÚnica
+🌐 Landing Page – Faculdade UNISE
 
-Bem-vindo ao repositório da **Landing Page do Setor de Expansão e Negócios da UniÚnica**. Esta página serve como um hub centralizado para parceiros, polos e consultores da instituição, oferecendo acesso rápido a informações institucionais, materiais de apoio, localização dos polos e canais de contato com o setor responsável.
+Bem-vindo ao repositório da Landing Page da Faculdade UNISE. Esta página foi desenvolvida como um ponto central de divulgação institucional, com foco em apresentar os cursos oferecidos, fornecer materiais de apoio e facilitar o contato com a equipe responsável.
 
----
+📌 Visite a página  
+URL pública: https://seuusuario.github.io/nomedorepositorio/ *(substitua pelo seu)*
 
-## 📌 Visite a página
-
-**URL pública:** [https://uniunica.github.io/lp/](https://uniunica.github.io/lp/)
-
----
-
-## 📂 Conteúdo da Página
+📂 Conteúdo da Página
 
 A landing page está dividida em seções funcionais:
 
 - **Home** – Apresentação institucional e boas-vindas
-- **Produtos** – Acesso a materiais de divulgação dos cursos (Graduação, Pós etc.)
-- **Links Úteis** – Ferramentas para o dia a dia dos polos e consultores
-- **Mapa Interativo** – Visualização geográfica dos polos ativos
-- **Dúvidas Frequentes** – FAQ para suporte rápido
-- **Contato** – Modal interativo para localizar seu consultor via WhatsApp
+- **Cursos** – Lista atualizada com Graduação, Pós-graduação, Técnicos e Qualificação
+- **Links Úteis** – Acesso ao Descritivo de cursos
+- **Contato** – Formulário simples com envio direto para o e-mail institucional
+
+🛠️ Tecnologias Utilizadas
+
+- HTML5
+- Tailwind CSS (via CDN)
+- Alpine.js – Para interatividade dinâmica
+- Animate.css – Animações suaves e responsivas
+- JavaScript – Scripts para comportamento da interface
+
+▶️ Como Usar
+
+**1. Acessar**  
+Abra diretamente no navegador através do GitHub Pages:
+
+**2. Navegar**  
+Use o menu fixo no topo da página para navegar pelas seções:
+
+- Home (#home)
+- Cursos (#cursos)
+- Descritivo (#descritivo)
+- Contato (#contato)
+
+**3. Entrar em Contato**  
+Preencha o formulário com nome, e-mail e mensagem. O conteúdo será encaminhado diretamente para o e-mail institucional: `igorriba@unise.edu.br`.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-- **HTML5**  
-- **Tailwind CSS** (via CDN)  
-- **Alpine.js** – Para interatividade e comportamento dinâmico  
-- **Animate.css** – Animações suaves  
-- **JavaScript** – Scripts personalizados (ex: modal, autocomplete)  
-- **Mapa Interativo** – Scripts `mapdata.js` e `countrymap.js` personalizados
-
----
-
-## ▶️ Como Usar
-
-### 1. **Acessar**
-Acesse diretamente pelo navegador via:
-https://uniunica.github.io/lp/
-
-
-### 2. **Navegar**
-Use o menu fixo no topo da página para ir até:
-
-- Home (`#home`)
-- Produtos (`#produtos`)
-- Links úteis (`#links-uteis`)
-- Mapa de polos (`#mapa`)
-- Dúvidas (`#duvidas`)
-- Contato (`#contato`)
-
-### 3. **Entrar em Contato**
-Clique em **"Entre em contato com seu consultor"** na seção principal. Um modal será exibido pedindo seu nome. Com base nisso, o sistema sugere o consultor responsável e fornece o link direto para WhatsApp.
-
----
-
-✨ Desenvolvido por
-Equipe do Setor de Expansão e Negócios – UniÚnica
-Idealizado, executado e mantido por Felipe Toledo e colaboradores.
+✨ Desenvolvido por  
+**Faculdade UNISE – Setor de Mídias e Comunicação**  
+Idealizado, personalizado e publicado por Igor Riba.
